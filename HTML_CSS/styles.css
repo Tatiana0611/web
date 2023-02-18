@@ -1,0 +1,45 @@
+html{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(126, 171, 208);
+}
+body{
+    background-color: rgb(219, 229, 245);
+    width: 1000px;
+    margin: auto;
+    padding: 0 20px 20px 20px;    
+}
+h1{
+    color: rgb(14, 29, 90);
+    font-family: 'Rubik Microbe', cursive;
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    padding: 20px 0 0 0;
+}
+h2{
+    color: rgb(14, 29, 90);
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    padding: 20px 0 0 0;
+}
+img{
+    display: block;
+    /* width: 1000; */
+    margin: 0;
+    padding: 10px 0;
+}
+p{
+    text-align: justify;
+    text-indent: 25px;
+    margin: 0;
+}
+ul, li, a{
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(36, 36, 37);
+    font-weight: 600;
+}
